@@ -284,10 +284,10 @@
 -r:"Library/Bee/artifacts/2000b0aP.dag/Unity.Services.Core.Internal.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/Unity.Services.Core.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Common/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Common/INativeStore.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Common/MiniJSON.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Common/VersionCheck.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Common/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Common/INativeStore.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Common/MiniJSON.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Common/VersionCheck.cs"
 -langversion:9.0
 
 /deterministic

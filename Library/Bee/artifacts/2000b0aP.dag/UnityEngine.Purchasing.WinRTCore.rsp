@@ -282,9 +282,9 @@
 -r:"/Users/chaselawbar/Documents/GitHub/mod1b-mission-demolition-1ChaseLawrence1/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll"
 -r:"/Users/chaselawbar/Documents/GitHub/mod1b-mission-demolition-1ChaseLawrence1/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/WinRTCore/AssemblyInfo.cs.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/WinRTCore/IWinRT.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/WinRTCore/WinProductDescription.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/WinRTCore/AssemblyInfo.cs.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/WinRTCore/IWinRT.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/WinRTCore/WinProductDescription.cs"
 -langversion:9.0
 
 /deterministic

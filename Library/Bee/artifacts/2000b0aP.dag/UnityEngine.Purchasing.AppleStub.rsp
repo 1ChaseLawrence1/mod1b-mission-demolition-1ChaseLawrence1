@@ -284,8 +284,8 @@
 -r:"Library/Bee/artifacts/2000b0aP.dag/Purchasing.Common.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.Purchasing.AppleCore.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/AppleStub/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/AppleStub/iOSStoreBindings.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/AppleStub/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/AppleStub/iOSStoreBindings.cs"
 -langversion:9.0
 
 /deterministic

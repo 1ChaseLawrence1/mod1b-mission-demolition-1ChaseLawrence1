@@ -285,12 +285,12 @@
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.Purchasing.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.Purchasing.Stores.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Codeless/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Codeless/CodelessIAPStoreListener.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Codeless/ComboBox.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Codeless/IAPButton.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Codeless/IAPConfigurationHelper.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/Codeless/IAPListener.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Codeless/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Codeless/CodelessIAPStoreListener.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Codeless/ComboBox.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Codeless/IAPButton.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Codeless/IAPConfigurationHelper.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/Codeless/IAPListener.cs"
 -langversion:9.0
 
 /deterministic

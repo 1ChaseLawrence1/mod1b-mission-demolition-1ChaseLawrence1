@@ -283,11 +283,11 @@
 -r:"/Users/chaselawbar/Documents/GitHub/mod1b-mission-demolition-1ChaseLawrence1/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.Purchasing.SecurityCore.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityStub/AppleValidator.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityStub/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityStub/CrossPlatformValidator.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityStub/GooglePlayReceipt.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityStub/Obfuscator.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityStub/AppleValidator.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityStub/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityStub/CrossPlatformValidator.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityStub/GooglePlayReceipt.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityStub/Obfuscator.cs"
 -langversion:9.0
 
 /deterministic

@@ -282,10 +282,10 @@
 -r:"/Users/chaselawbar/Documents/GitHub/mod1b-mission-demolition-1ChaseLawrence1/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll"
 -r:"/Users/chaselawbar/Documents/GitHub/mod1b-mission-demolition-1ChaseLawrence1/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityCore/AppleReceipt.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityCore/AssemblyInfo.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityCore/IAPSecurityException.cs"
-"Library/PackageCache/com.unity.purchasing@4.4.0/Runtime/SecurityCore/IPurchaseReceipt.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityCore/AppleReceipt.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityCore/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityCore/IAPSecurityException.cs"
+"Library/PackageCache/com.unity.purchasing@4.4.1/Runtime/SecurityCore/IPurchaseReceipt.cs"
 -langversion:9.0
 
 /deterministic
